@@ -1,1 +1,1 @@
-# SauceDemo-UI-Automation-
+# SauceDemo-UI-Automation
